@@ -57,9 +57,9 @@ def main():
     ## Name of blocker
     nameBlock = "Krailerk M."
     ## Name of requester
-    nameRequest = "Sopis J."
+    nameRequest = "Punsavut J."
     ## Number of case from Court's order
-    noCase = "Black Case No. 15/2013, Red Case No. 171/2013"
+    noCase = "Case No. 186-2563"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone

@@ -1,782 +1,782 @@
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "zeedxxx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "คลิปโป๊ออนไลน์.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "web.xxxpostpic.org" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.porn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.wowclipx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "motherless.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "jvrporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "avclipx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "badoinkvr.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "av-th.net" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xxxder.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.pornbuss.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "hotpornhere.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xn--v3cd8a0ar.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.tubxporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "virtualrealporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "porndoe.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xn--72c9ahmp9c1bm4lpcta.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "gotporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "warps.club" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "mlivevip.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xn--18-3qi1e6drb.online" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "r18.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "asiansexteen.blogspot.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "หนัง18.online" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "lustery.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "thai-setup.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.18yed.net" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.xnxx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "vrbangers.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "nong69.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.youporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.cumlouder.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "beeg.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.porntrex.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.homemoviestube.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.pornhd.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "donungxxx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.xxxoopz.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
 zone "hqporner.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "abbywinters.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "mobilimsiporno.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.gotporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xonly8.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "naughtyamericavr.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "vporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "ดูหนังโป๊นะ.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "tubxporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.av-th.net" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.wankzvr.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.ilovesextoy.net" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "4tube.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "sxyprn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "allclip4.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xn--72c9ah5dd7a5a9g5c.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "pornbuss.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "wowclipx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.gaymaletube.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "v2.allurexxxclub.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.pornhub.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.hotpornhere.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "wankzvr.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.xn--v3cd8a0ar.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.pornktube.porn" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.xvideos.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
 zone "asiannudepic.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "hergunporno.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xn--v3cd8a0ar.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.youjizz.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "avclipx.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "thai-setup.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "hotpornhere.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.hotpornhere.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "nong69.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
 zone "www.veporns.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "gallery191.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.18yed.net" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "daftsex.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xn--72c9ah5dd7a5a9g5c.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "txxx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.eporner.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.porntube.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xxxporn7.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "gaysex18.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "publicagent.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.redtube.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.wifebucket.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xxxfiles.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xn--72ca2bsl7gxbd4m7c.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "sexlikereal.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "gfsex.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "hentaithai.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.4tube.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "thaipornkub.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "clip2vip.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.mxdxxx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "veporns.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.xxxfiles.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.naughtyamericavr.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xn--72c0anjvy4c8b1bybygre.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "ayasf.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.publicagent.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.sexlikereal.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.clip2vip.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xxxoopz.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "248avporn.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.zeedxxx.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xnxxfap.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
 zone "xxxnaja.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "wifebucket.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "publicagent.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.vporn.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "pornbuss.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "xhamster.one" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "warps.club" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "yed500.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.ilovesextoy.net" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "porntrix.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.eporner.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.r18.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "gfsex.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "page.postjung.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "hentaithai.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "porn.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "lustery.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
-zone "www.nong69.com" IN {
-        type master;
-        file "data/db.sexsiam.com";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
 zone "18yed.net" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Black Case No. 15/2013, Red Case No. 171/2013 //// 03 Sep 2020
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "av-th.net" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.gotporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "web.xxxpostpic.org" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.vporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "abbywinters.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.gaymaletube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "หนัง18.online" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "gaysex18.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "porn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.pornbuss.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xn--72ca2bsl7gxbd4m7c.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.wowclipx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xxxoopz.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xn--72c9ahmp9c1bm4lpcta.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "beeg.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "asiansexteen.blogspot.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.zeedxxx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "ayasf.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "ดูหนังโป๊นะ.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "motherless.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "gallery191.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
 zone "porntube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.xvideos.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xn--18-3qi1e6drb.online" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "donungxxx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.publicagent.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.r18.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "porndoe.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.pornhd.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "vporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.xn--v3cd8a0ar.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "porntrix.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.porn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "daftsex.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.wifebucket.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.4tube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.clip2vip.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "tubxporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "page.postjung.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.xxxoopz.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.porntrex.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.xnxx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.pornktube.porn" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "wowclipx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "allclip4.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "jvrporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "248avporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xxxporn7.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.youjizz.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "veporns.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "mlivevip.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "zeedxxx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "gotporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xhamster.one" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "vrbangers.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.av-th.net" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.nong69.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xxxfiles.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "mobilimsiporno.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.porntube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "badoinkvr.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.youporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "wifebucket.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "thaipornkub.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.cumlouder.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.redtube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "yed500.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.xxxfiles.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "คลิปโป๊ออนไลน์.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "sxyprn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "4tube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.pornhub.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.naughtyamericavr.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xnxxfap.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.homemoviestube.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "txxx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xonly8.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.wankzvr.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "wankzvr.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "r18.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "naughtyamericavr.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.tubxporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "clip2vip.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "virtualrealporn.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "hergunporno.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "v2.allurexxxclub.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.mxdxxx.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "sexlikereal.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xxxder.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "xn--72c0anjvy4c8b1bybygre.com" IN {
+        type master;
+        file "data/db.sexsiam.com";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
+zone "www.sexlikereal.com" IN {
         type master;
         file "data/db.sexsiam.com";
         allow-update { none; };
