@@ -68,6 +68,8 @@ def main():
     tmptest = str()
     ## Test run and reload script
     tmptest1 = "named-checkconf\nrndc reload\n"
+    ## Start init tmptest
+    tmptest += tmptest1
     ## Loop for generate zone file
     for tmpUniqueURL in unique_words:
         ## Create zone record and link to zone file
