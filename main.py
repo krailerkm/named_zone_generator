@@ -89,7 +89,7 @@ def main():
     ## Open test file test
     fileOut = open("./output/outtest.txt", "w")
     ## Write Export test to file
-    fileOut.write(tmpstr)
+    fileOut.write(tmptest)
     ## Close file test
     fileOut.close
 
