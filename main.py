@@ -64,19 +64,33 @@ def main():
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
     tmpstr = str()
+    ## Test and script
+    tmptest = str()
+    ## Test run and reload script
+    tmptest1 = "named-checkconf\nrndc reload\n"
     ## Loop for generate zone file
     for tmpUniqueURL in unique_words:
         ## Create zone record and link to zone file
         tmpstr2 = "zone \"" + tmpUniqueURL + "\" IN {\n        type master;\n        file \"data/db.sexsiam.com\";\n        allow-update { none; };\n};\n\n"
         ## Put all data to tmp string
         tmpstr += tmpstr1 + tmpstr2
+        ## Test all domain
+        tmptest += "nslookup " + tmpUniqueURL + "\n"
     ## Show output
     print(tmpstr)
-    ## Open output file
+    ## Open output file output
     fileOut = open("./output/outzone.txt", "w")
     ## Write Export output to file
     fileOut.write(tmpstr)
     ## Close file output
+    fileOut.close
+    ## Show test
+    print(tmptest)
+    ## Open test file test
+    fileOut = open("./output/outtest.txt", "w")
+    ## Write Export test to file
+    fileOut.write(tmpstr)
+    ## Close file test
     fileOut.close
 
 ## Run main function
