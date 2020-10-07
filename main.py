@@ -25,7 +25,7 @@ def main():
     outCUT = str()
     ## Loop for split only url cut off part and record
     for n in beforeCUT:
-        name = n[5:] 
+        name = n[:] 
         ## Cut off http://
         if name[:7] == "http://":
             ## CUT http://
@@ -60,7 +60,7 @@ def main():
     ## Name of requester
     nameRequest = "Sopis J."
     ## Number of case from Court's order
-    noCase = "Case No. 290-2563"
+    noCase = "Case No. 327-2563"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
