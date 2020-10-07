@@ -1,784 +1,1470 @@
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.youjizz.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mk189bet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.pornbuss.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mm88go.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.gaymaletube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ibcbetthailand.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "pornbuss.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufabet21.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xonly8.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "victory222.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "publicagent.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa356.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xhamster.one" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ibo88vip.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "thai-setup.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sexygame66.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "wifebucket.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "databet88.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "nong69.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "z82020.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.clip2vip.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "juad88.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "page.postjung.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "tbs.bet" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "hentaithai.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "rixbet.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "คลิปโป๊ออนไลน์.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gold88.org" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "gotporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "vipcasino168.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "allclip4.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "38.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "motherless.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fifa55mvp.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xxxfiles.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sa888vip.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.redtube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "388goal.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.homemoviestube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "taipei999.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.nong69.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "cmeuruguay.org" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xn--72c9ah5dd7a5a9g5c.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "databet28.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.r18.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "okaybet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "vporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bet-3d.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.publicagent.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "baccarat1688.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.naughtyamericavr.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bkk-bet.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xn--72c0anjvy4c8b1bybygre.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufaonline24.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "wowclipx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "711kelabs.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "mobilimsiporno.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ifm444.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.pornktube.porn" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa600s.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.pornhub.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "motophotohamden.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "donungxxx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "goldbet999.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.wowclipx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bet-link.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "badoinkvr.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa579.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.hotpornhere.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobet88.city" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "ayasf.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sboclub24.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "asiansexteen.blogspot.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gpbvegas.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "hotpornhere.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufapro888.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.eporner.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "imi77th.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xxxporn7.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lottoone.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "web.xxxpostpic.org" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "now888m.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "naughtyamericavr.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ts911.info" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.veporns.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufafever.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "wankzvr.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gclubonline.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.xnxx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "vegus33.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xnxxfap.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sa168vip.co" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "ดูหนังโป๊นะ.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "goldyslot711.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "hergunporno.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa191.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.youporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lsm99.today" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.porntrex.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "666s.bet" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xxxder.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gembet99.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "v2.allurexxxclub.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufax10.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "gaysex18.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sagame350.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.wankzvr.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "taibet88.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "thaipornkub.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ts678bet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "yed500.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "123dic.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "hqporner.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "pussy888fun.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.sexlikereal.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufabetgoal.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "beeg.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ligaz24th.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "asiannudepic.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bet365.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.xvideos.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "soccersurfer.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "gallery191.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "onlinecasino-th.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "avclipx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobet911.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xn--v3cd8a0ar.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "911.bet" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.cumlouder.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mmc333.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "veporns.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "starvegasgame.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "jvrporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "scg9thai.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xn--72c9ahmp9c1bm4lpcta.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.xxxoopz.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "affslot66.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "daftsex.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufablue.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.av-th.net" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "biz99bet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.gotporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fattbetvip.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.wifebucket.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "77upth.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "หนัง18.online" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "jetsadabet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "vrbangers.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "nova88-bet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.zeedxxx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "tsplus911.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "4tube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ligaz888bet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "porntrix.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "betnow88.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "mlivevip.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "333be.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xn--72ca2bsl7gxbd4m7c.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bk8thai01.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "tubxporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fafa117.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "clip2vip.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobet.li" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xn--18-3qi1e6drb.online" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mm88new.bet" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.ilovesextoy.net" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "kingbet888.club" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "porndoe.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fifa55grand.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.porntube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "slot999.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.xxxfiles.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "k9winbet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "porn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufacorner.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "txxx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "databet95.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "porntube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "hattrick988.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xxxnaja.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "imiwin.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "lustery.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lagalaxy1.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "248avporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "aninebet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "av-th.net" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa88up.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.mxdxxx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbofever.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "r18.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sagame77.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "xxxoopz.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sacasino.bet" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.vporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "csbetway.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "warps.club" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fifa55goal.co" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.pornhd.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "thaicasinoonline.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "zeedxxx.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "123play.net" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "virtualrealporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "coin365th.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "gfsex.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "myzean.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "sxyprn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "123bet168th.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.4tube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "vxbet365.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.xn--v3cd8a0ar.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ics66.bet" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.tubxporn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sboibc888.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "sexlikereal.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sport4xonline.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.porn.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobetmember.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "www.18yed.net" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "youlike9.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "18yed.net" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "nm168bet.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 186-2563 //// 03 Sep 2020
-zone "abbywinters.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufapro888s.com" IN {
         type master;
-        file "data/db.sexsiam.com";
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lavagame99th.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sagamingbet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "star99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "123xbet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "megabet8.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobet-x.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "biobet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lotto77.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sagame666.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "auto2bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "iwantbet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "huclogin.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobetoffice.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufacr7.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa2go.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "wm168.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bnklotto.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "th-bet138.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "winbet55.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "jdl88thai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "casabet24.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lionbet.club" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa79bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "rb88.link" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "kickoff77.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "123b168th.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "3win33.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa678.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fastbet98.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufabetstar.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "solarbet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "foxz168.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ssgame56.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lao88gold.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "casinoroller88.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufabet8s.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "doloren.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "theking.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "major168.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "winner98.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mm88sport.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "foxz24.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gclub88.bz" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ruay1197.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sagod.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "siam99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fafa855x.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gtrbetclub.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufalion168.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbobet888.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sexygame1688.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "kugame8.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mybet88.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "kingufa.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gclub8.tech" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "topplay99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "billions-bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "5gindy.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa350.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "saover.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "668dg.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "1b2uthai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "moneyonlinethai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "agent2bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufa147.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sagame88.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "77up.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gclub01.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "5g555.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "barndalehouse.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "baccaratspecial.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ruay.me" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "5gking.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bmclubvip.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "fafa191x.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "allgame.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufagold.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "maxbet888-th.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sbo.bz" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "vegus168win.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "wm666.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "217.77up.app" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "like191.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "skball.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufabetgo.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ufabet911.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "youlike24hr.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ruaypapa.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "mahagame88.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "bscbet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "chateau-ferte-st-aubin.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "slotgame66.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "asiacasinopro.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "lucabetasia.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "ics999.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "heng666.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "sboline.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 07 Oct 2020
+zone "gclub-premier.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 

@@ -25,17 +25,18 @@ def main():
     outCUT = str()
     ## Loop for split only url cut off part and record
     for n in beforeCUT:
+        name = n[5:] 
         ## Cut off http://
-        if n[:7] == "http://":
+        if name[:7] == "http://":
             ## CUT http://
             tmp = n[7:]
             #print(tmp.split('/')[0])
             ## Store to string
             outCUT += tmp.split('/')[0]
         ## Cut off https://
-        elif n[:8] == "https://":
+        elif name[:8] == "https://":
             ## CUT https://
-            tmp = n[8:]
+            tmp = name[8:]
             #print(tmp.split('/')[0])
             ## Store to string
             outCUT += tmp.split('/')[0]
@@ -46,7 +47,7 @@ def main():
         ## Any domain and part
         else:
             ## Any word sotore
-            tmp = n
+            tmp = name
             #print(tmp.split('/')[0])
             ## Store to string
             outCUT += tmp.split('/')[0]
@@ -57,9 +58,9 @@ def main():
     ## Name of blocker
     nameBlock = "Krailerk M."
     ## Name of requester
-    nameRequest = "Punsavut J."
+    nameRequest = "Sopis J."
     ## Number of case from Court's order
-    noCase = "Case No. 186-2563"
+    noCase = "Case No. 290-2563"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
@@ -73,7 +74,7 @@ def main():
     ## Loop for generate zone file
     for tmpUniqueURL in unique_words:
         ## Create zone record and link to zone file
-        tmpstr2 = "zone \"" + tmpUniqueURL + "\" IN {\n        type master;\n        file \"data/db.sexsiam.com\";\n        allow-update { none; };\n};\n\n"
+        tmpstr2 = "zone \"" + tmpUniqueURL + "\" IN {\n        type master;\n        file \"data/db.block.mdes.go.th\";\n        allow-update { none; };\n};\n\n"
         ## Put all data to tmp string
         tmpstr += tmpstr1 + tmpstr2
         ## Test all domain
