@@ -63,7 +63,7 @@ def main():
     ## Name of requester
     nameRequest = "Sopis J."
     ## Number of case from Court's order
-    noCase = "Case No. 327-2563"
+    noCase = "Case No. 290-2563"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
@@ -81,7 +81,7 @@ def main():
         ## Put all data to tmp string
         tmpstr += tmpstr1 + tmpstr2
         ## Test all domain
-        tmptest += "nslookup " + tmpUniqueURL + "\n"
+        tmptest += "nslookup " + tmpUniqueURL + " 203.155.33.2\n"
     ## Show output
     #print(tmpstr)
     ## Open output file output
