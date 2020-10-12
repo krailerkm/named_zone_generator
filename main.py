@@ -10,6 +10,7 @@
 #                                           
 #
 import datetime
+import re
 
 def main():
     ## Run date time
@@ -19,38 +20,40 @@ def main():
     fileOP = open("./input/urllist.txt", "r")
     ## Readline from file to parameter
     beforeCUT = fileOP.readlines()
+    #print(beforeCUT)
     ## Close file for read all url from text
     fileOP.close()
     ## Parameter for store string
     outCUT = str()
     ## Loop for split only url cut off part and record
     for n in beforeCUT:
-        name = n[:] 
+        name = re.sub(r"\s+", "", n)
+        #print("@"+name)
         ## Cut off http://
         if name[:7] == "http://":
             ## CUT http://
-            tmp = n[7:]
-            #print(tmp.split('/')[0])
+            tmp = name[7:]
+            print(tmp)
             ## Store to string
-            outCUT += tmp.split('/')[0]
+            outCUT += tmp + " "
         ## Cut off https://
         elif name[:8] == "https://":
             ## CUT https://
             tmp = name[8:]
-            #print(tmp.split('/')[0])
+            print(tmp)
             ## Store to string
-            outCUT += tmp.split('/')[0]
+            outCUT += tmp + " "
         ## Cut off not domain and part
-        #elif n[:2] == "\n":
+        elif n[:2] == "\n":
             ## Pass any things
-        #    pass
+            pass
         ## Any domain and part
         else:
             ## Any word sotore
             tmp = name
-            #print(tmp.split('/')[0])
+            #print(tmp)
             ## Store to string
-            outCUT += tmp.split('/')[0]
+            outCUT += tmp + " "
     #print(outCUT)
     ## Find unique url from many url list
     unique_words = set(outCUT.split())
@@ -80,7 +83,7 @@ def main():
         ## Test all domain
         tmptest += "nslookup " + tmpUniqueURL + "\n"
     ## Show output
-    print(tmpstr)
+    #print(tmpstr)
     ## Open output file output
     fileOut = open("./output/outzone.txt", "w")
     ## Write Export output to file
@@ -88,7 +91,7 @@ def main():
     ## Close file output
     fileOut.close
     ## Show test
-    print(tmptest)
+    #print(tmptest)
     ## Open test file test
     fileOut = open("./output/outtest.txt", "w")
     ## Write Export test to file

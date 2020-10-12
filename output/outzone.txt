@@ -1,61 +1,418 @@
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "http:" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.gaymaletube.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "xtube.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "sexgayjapan.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "thothub.tv" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.pornktube.porn" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "voyeurhit.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "xxxpornzeed.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "hotscope.tv" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "69lovegood.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "https:" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.msnladyboy.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "camwhoresbay.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.pornrox.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "hclips.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.porn00.org" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 07 Oct 2020
-zone "eroprofile.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.pornhd.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.3movs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "xmoviesforyou.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.blacked.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.porntrex.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "theporndude.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.mxdxxx.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.tnaflix.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "brazzers-thai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "ultrahorny.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.apetube.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.gayck.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.porndig.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.redtube.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "landing.fakehub.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.momvids.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "xn--72c0aarl7gxb5hqa7c4a.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "thegay.porn" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.porn300.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "youporn.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "th.spankbang.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "porndoe.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "landing.iknowthatgirl.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "netfapx.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "pornparadox.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "web.xxxpostpic.org" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.joysporn.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.youporn.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "rov69.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "msnladyboy.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "mypio.ru" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.drtuber.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.eporner.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www4.pornhd8k.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "m.perfectgirls.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "txxx.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "upornia.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "xfantasy.tv" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.exxxtrasmall.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "javhd.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.pornrewind.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "daftsex.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "thegay.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.xxxtube.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.laidhub.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "hotmovs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "warps.club" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "hqporner.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "anysex.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "3movs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.wrapporn.vip" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 327-2563 //// 12 Oct 2020
+zone "www.letsjerk.is" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
