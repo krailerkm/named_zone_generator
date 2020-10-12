@@ -11,3 +11,4 @@ zone "baccaratspecial.com" IN {
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
+
