@@ -16,6 +16,7 @@ def main():
     ## Run date time
     today = datetime.date.today()
     #print(today.strftime("%d %b %Y"))
+
     ## Open file for read all url from text
     fileOP = open("./input/urllist.txt", "r")
     ## Readline from file to parameter
@@ -23,6 +24,24 @@ def main():
     #print(beforeCUT)
     ## Close file for read all url from text
     fileOP.close()
+
+    ## Open whitelist file for read all url from text
+    fileWL = open("./input/whitelist.txt", "r")
+    ## Readline whitelist from file to parameter
+    WL_out = fileWL.readlines()
+    #print(beforeCUT)
+    ## Close whitelist file for read all url from text
+    fileWL.close()
+
+    ## Prepare data whitelist
+    outWL = str()
+    for tmpWL in WL_out:
+        if tmpWL[:2] == "\n":
+            ## Pass any things
+            pass
+        else:
+            outWL += tmpWL + " "
+
     ## Parameter for store string
     outCUT = str()
     ## Loop for split only url cut off part and record
@@ -33,16 +52,18 @@ def main():
         if name[:7] == "http://":
             ## CUT http://
             tmp = name[7:]
-            #print(tmp)
-            ## Store to string
-            outCUT += tmp + " "
+            ## Print show cut parth after domain
+            #print(tmp.split("/")[0])
+            ## Store to string and cut parth after domain
+            outCUT += tmp.split("/")[0] + " "
         ## Cut off https://
         elif name[:8] == "https://":
             ## CUT https://
             tmp = name[8:]
-            #print(tmp)
-            ## Store to string
-            outCUT += tmp + " "
+            ## Print show cut parth after domain
+            #print(tmp.split("/")[0])
+            ## Store to string and cut parth after domain
+            outCUT += tmp.split("/")[0] + " "
         ## Cut off not domain and part
         elif n[:2] == "\n":
             ## Pass any things
@@ -51,19 +72,27 @@ def main():
         else:
             ## Any word sotore
             tmp = name
-            #print(tmp)
-            ## Store to string
-            outCUT += tmp + " "
+            ## Print show cut parth after domain
+            #print(tmp.split("/")[0])
+            ## Store to string and cut parth after domain
+            outCUT += tmp.split("/")[0] + " "
+    
+    ## Print show all data in parameter
     #print(outCUT)
-    ## Find unique url from many url list
+    ## Select unique url from many url list
     unique_words = set(outCUT.split())
-    #print(unique_words)
+    ## Select unique url from white list
+    unique_whitelist = set(outWL.split())
+    ## Set Black - Set Whitelist
+    real_block = unique_words - unique_whitelist
+    ## Can't block list
+    cant_block = unique_whitelist.intersection(unique_words)
     ## Name of blocker
     nameBlock = "Krailerk M."
     ## Name of requester
     nameRequest = "Sopis J."
     ## Number of case from Court's order
-    noCase = "Case No. 303-2563"
+    noCase = "Case No. 286-2563"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
@@ -74,8 +103,11 @@ def main():
     tmptest1 = "named-checkconf\nrndc reload\n"
     ## Start init tmptest
     tmptest += tmptest1
+
+    ## Print lest of domain
+    print("::::::::::::::: According to the Court's order block domains :::::::::::::::")
     ## Loop for generate zone file
-    for tmpUniqueURL in unique_words:
+    for tmpUniqueURL in real_block:
         print(tmpUniqueURL)
         ## Create zone record and link to zone file
         tmpstr2 = "zone \"" + tmpUniqueURL + "\" IN {\n        type master;\n        file \"data/db.block.mdes.go.th\";\n        allow-update { none; };\n};\n\n"
@@ -83,6 +115,9 @@ def main():
         tmpstr += tmpstr1 + tmpstr2
         ## Test all domain
         tmptest += "nslookup " + tmpUniqueURL + " 203.155.33.2\n"
+    ## Print the end of list domain
+    print("::::::::::::::::::::::::: The end of block domains :::::::::::::::::::::::::")
+
     ## Show output
     #print(tmpstr)
     ## Open output file output
@@ -99,6 +134,24 @@ def main():
     fileOut.write(tmptest)
     ## Close file test
     fileOut.close
+
+    ## Print lest of domain
+    print(":::::::::::::::::::::::::::::: Can not block domains :::::::::::::::::::::::::::::::")
+    ## Set parameter
+    strTmpCantBlock = str()
+    ## Loop for show can not block list
+    for tmpCantBlock in cant_block:
+        print(tmpCantBlock)
+        strTmpCantBlock += tmpCantBlock + "\n"
+     ## Print the end of list domain
+    print("::::::::::::::::::::::::: The end of can not block domains :::::::::::::::::::::::::")
+
+    ## Open test file test
+    fileOutList = open("./output/cantblock.txt", "w")
+    ## Write Export test to file
+    fileOutList.write(strTmpCantBlock)
+    ## Close file test
+    fileOutList.close
 
 ## Run main function
 if __name__ == "__main__":
