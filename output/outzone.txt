@@ -1,13 +1,21 @@
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 12 Oct 2020
-zone "coin365th.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 303-2563 //// 14 Oct 2020
+zone "hoodsite.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 290-2563 //// 12 Oct 2020
-zone "baccaratspecial.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 303-2563 //// 14 Oct 2020
+zone "tube8.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 303-2563 //// 14 Oct 2020
+zone "www.tube8.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+

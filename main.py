@@ -27,20 +27,20 @@ def main():
     outCUT = str()
     ## Loop for split only url cut off part and record
     for n in beforeCUT:
-        name = re.sub(r"\s+", "", n)
+        name = re.sub(r"\s+", "", n[3:])
         #print("@"+name)
         ## Cut off http://
         if name[:7] == "http://":
             ## CUT http://
             tmp = name[7:]
-            print(tmp)
+            #print(tmp)
             ## Store to string
             outCUT += tmp + " "
         ## Cut off https://
         elif name[:8] == "https://":
             ## CUT https://
             tmp = name[8:]
-            print(tmp)
+            #print(tmp)
             ## Store to string
             outCUT += tmp + " "
         ## Cut off not domain and part
@@ -63,7 +63,7 @@ def main():
     ## Name of requester
     nameRequest = "Sopis J."
     ## Number of case from Court's order
-    noCase = "Case No. 290-2563"
+    noCase = "Case No. 303-2563"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
@@ -76,6 +76,7 @@ def main():
     tmptest += tmptest1
     ## Loop for generate zone file
     for tmpUniqueURL in unique_words:
+        print(tmpUniqueURL)
         ## Create zone record and link to zone file
         tmpstr2 = "zone \"" + tmpUniqueURL + "\" IN {\n        type master;\n        file \"data/db.block.mdes.go.th\";\n        allow-update { none; };\n};\n\n"
         ## Put all data to tmp string
