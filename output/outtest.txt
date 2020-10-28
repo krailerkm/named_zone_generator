@@ -1,4 +1,3 @@
 named-checkconf
 rndc reload
-nslookup 430.com 203.155.33.2
-nslookup suncity.online 203.155.33.2
+nslookup melmagazine.com 203.155.33.2

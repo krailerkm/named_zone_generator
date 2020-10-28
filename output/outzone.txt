@@ -1,12 +1,5 @@
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 306-2563 //// 27 Oct 2020
-zone "430.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 306-2563 //// 27 Oct 2020
-zone "suncity.online" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 324-2563 //// 28 Oct 2020
+zone "melmagazine.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
