@@ -1,3 +1,5 @@
 named-checkconf
 rndc reload
-nslookup slot007.com 203.155.33.2
+nslookup www.gtr55.com 203.155.33.2
+nslookup www.rogg.com 203.155.33.2
+nslookup www.hero88.com 203.155.33.2

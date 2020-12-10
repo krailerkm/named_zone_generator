@@ -1,5 +1,19 @@
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 286-2563 //// 04 Nov 2020
-zone "slot007.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 397-2563 //// 04 Dec 2020
+zone "www.gtr55.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 397-2563 //// 04 Dec 2020
+zone "www.rogg.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 397-2563 //// 04 Dec 2020
+zone "www.hero88.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
