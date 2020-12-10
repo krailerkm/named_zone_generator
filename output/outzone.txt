@@ -1,19 +1,19 @@
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 397-2563 //// 04 Dec 2020
-zone "www.gtr55.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 425-2563 //// 10 Dec 2020
+zone "clip2you.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 397-2563 //// 04 Dec 2020
-zone "www.rogg.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 425-2563 //// 10 Dec 2020
+zone "beeg.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 397-2563 //// 04 Dec 2020
-zone "www.hero88.com" IN {
+//// Krailerk M. //// Request by Sopis J. //// According to the Court's order, Case No. 425-2563 //// 10 Dec 2020
+zone "pornstarxd.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };

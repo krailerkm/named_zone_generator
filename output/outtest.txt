@@ -1,5 +1,5 @@
 named-checkconf
 rndc reload
-nslookup www.gtr55.com 203.155.33.2
-nslookup www.rogg.com 203.155.33.2
-nslookup www.hero88.com 203.155.33.2
+nslookup clip2you.com 203.155.33.2
+nslookup beeg.com 203.155.33.2
+nslookup pornstarxd.com 203.155.33.2
