@@ -1,5 +1,16 @@
 named-checkconf
 rndc reload
-nslookup mmm8bet.memberbet.net 203.155.33.2
-nslookup www.55slot.com 203.155.33.2
-nslookup ts911.info 203.155.33.2
+nslookup www.club388.com 203.155.33.2
+nslookup www.next88.casino 203.155.33.2
+nslookup uufa66.com 203.155.33.2
+nslookup mafia919.net 203.155.33.2
+nslookup www.next88pro.com 203.155.33.2
+nslookup www.tiger711.com 203.155.33.2
+nslookup aset999.com 203.155.33.2
+nslookup casinobet3d.com 203.155.33.2
+nslookup m.entaplayth.com 203.155.33.2
+nslookup next88.city 203.155.33.2
+nslookup uufa.bet 203.155.33.2
+nslookup ipro888.com 203.155.33.2
+nslookup www.doohdbox.com 203.155.33.2
+nslookup ts88pro.com 203.155.33.2
