@@ -1,17 +1,6 @@
 named-checkconf
 rndc reload
-nslookup xn--42c6bfa2cydya7i3c.com 203.155.33.2
-nslookup yed365.com 203.155.33.2
-nslookup xnxxyz.com 203.155.33.2
-nslookup theater2home.com 203.155.33.2
-nslookup xxx69thai.com 203.155.33.2
-nslookup iporntv.net 203.155.33.2
-nslookup swinging-th.com 203.155.33.2
-nslookup avheex.com 203.155.33.2
-nslookup loadxvdo.com 203.155.33.2
-nslookup 16honeys.com 203.155.33.2
-nslookup thaishowgirls.com 203.155.33.2
-nslookup m7xxx.com 203.155.33.2
-nslookup mahaxxxporn.com 203.155.33.2
-nslookup sexthaixxx.com 203.155.33.2
-nslookup nahee69.com 203.155.33.2
+nslookup 100c.gclub168.com 203.155.33.2
+nslookup www.365gclub.com 203.155.33.2
+nslookup www.ufa9d.com 203.155.33.2
+nslookup www.gclubcr7.com 203.155.33.2

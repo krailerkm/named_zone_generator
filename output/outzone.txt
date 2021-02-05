@@ -1,103 +1,26 @@
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "xn--42c6bfa2cydya7i3c.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
+zone "100c.gclub168.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "yed365.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
+zone "www.365gclub.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "xnxxyz.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
+zone "www.ufa9d.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "theater2home.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "xxx69thai.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "iporntv.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "swinging-th.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "avheex.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "loadxvdo.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "16honeys.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "thaishowgirls.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "m7xxx.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "mahaxxxporn.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "sexthaixxx.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 13-2554 //// 19 Jan 2021
-zone "nahee69.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
+zone "www.gclubcr7.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
