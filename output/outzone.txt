@@ -1,26 +1,19 @@
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
-zone "100c.gclub168.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 05 Feb 2021
+zone "perfectgirls.net" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
-zone "www.365gclub.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 05 Feb 2021
+zone "porn4days.club" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
-zone "www.ufa9d.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 495-2563 //// 29 Jan 2021
-zone "www.gclubcr7.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 05 Feb 2021
+zone "www.perfectgirls.net" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };

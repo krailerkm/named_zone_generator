@@ -1,6 +1,5 @@
 named-checkconf
 rndc reload
-nslookup 100c.gclub168.com 203.155.33.2
-nslookup www.365gclub.com 203.155.33.2
-nslookup www.ufa9d.com 203.155.33.2
-nslookup www.gclubcr7.com 203.155.33.2
+nslookup perfectgirls.net 203.155.33.2
+nslookup porn4days.club 203.155.33.2
+nslookup www.perfectgirls.net 203.155.33.2

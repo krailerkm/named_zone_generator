@@ -92,7 +92,7 @@ def main():
     ## Name of requester
     nameRequest = "Punsavut J."
     ## Number of case from Court's order
-    noCase = "Case No. 495-2563"
+    noCase = "Case No. 63-2564"
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
