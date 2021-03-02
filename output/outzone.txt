@@ -1,1203 +1,1218 @@
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufa-rs.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa-team.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.juad88.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "uufa38.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "fin88.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pussy888thai.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.hiall.site" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "mmm8bet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "houyde.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.theonebet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "scr99th.org" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
 zone "pgslot999.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufabet888.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "Bclub24.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.uufa38.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "theonebet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "wallet.sumoslot.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "gc168bet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "bk8thai.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.bmclubvip.bet" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufaslot.cc" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "imi8bet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "member.ufabet982.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "superfish44.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "jokerteam123.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.lucky44.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "bbbs.bacc7688.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufabet168.info" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "betflik68.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "jokerteam.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.jetsadabet.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.mmm8bet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "lsm99.mobi" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.lottothaibet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "chillbet.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufa24hrs.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "z8.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ruay949.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.fun555.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "gclub-x.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.38thai.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "winner55.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "major168.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "aff.789pro.app" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ambbet-th.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.sabai99.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ninjaslot.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "member.mafia999.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "w88casino.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pgslot54.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "jackpotxo1.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ambbetvip.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufabetcn.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "lottothaibet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufabet456.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "99member.biz" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "fun88wow.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "wallet7vip.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "love918kiss.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufabet888.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "sa-game789.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufabet888888.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "aff.123mixx.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ambbet-th.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.fun88wow.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "royal5555.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "4579lotto.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufabetcn.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "sath88.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "lsm99.guru" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa700.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "overbet99.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufaba99.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ruay1949.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "hiall.site" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.5g999.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pussy8888.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "member.ufa656.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "bmclubvip.bet" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufa88s.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.gpbvegas1.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.royal5555.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ts911official.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "fun068.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.lottovip.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "faro8.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ssgame66.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "lucky44.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "vip168sa.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pgslot-online.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "tclwin.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ssgame66.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
 zone "jetsadabet.net" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "gpbvegas1.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.gpbvegas1.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa-rs.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pussy888thai.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pd99bet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.z8.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ruay949.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "allwingame.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa.bet" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ruay.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa24hrs.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "55slot.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.mt88star.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufa700.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "epicwin-x.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "lottoheng168.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "panama888.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.winner55.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufa24h.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "m888club.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.w88casino.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa5000.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa24h.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "uufa67.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "poipet8989.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "slotx89.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "sbobet-888.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.chillbet.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "sexybaccarat168.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pgslot.auto" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.jackpotxo1.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "rogbet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.bk8thai.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.scr99th.org" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.lsm99.mobi" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "38thai.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "fun555.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "77up.me" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.imi8bet.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "app.123faz.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "lottovip.co" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "bacc999.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "pussy888.fun" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ninjaslot.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "guccigame168.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.m888club.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.vip168sa.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "5g88win.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.pussy888thai.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "sa-gaming89.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufastar356.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.pgslot999.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "uufa23.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "mt88star.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "jokerslotxo.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufa88s.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufa5000.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ts911official.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "slotxocasino.net" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.superfish44.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.tclwin.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "sexygame.game" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.Bclub24.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.ufaba99.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "ufabet168.info" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "aff.123new.vip" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "betmove.vip" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "wm1001.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.sexybaccarat168.com" IN {
-        type master;
-        file "data/db.block.mdes.go.th";
-        allow-update { none; };
-};
-
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
 zone "luciabet.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "juad88.co" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "lottovip.co" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "koddruay.guru" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "sexybaccarat168.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "aff.letitgoal.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "mmm8bet.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.sbobet-888.com" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "lottothaibet.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.royal5555.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "gc168bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa700.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
 zone "sabai99.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "jokerauto.bz" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "sexygame.game" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "5g999.co" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ruay.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "aff.ufaclub24.net" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.lsm99.mobi" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
-zone "www.betmove.vip" IN {
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "fun88wow.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.vip168sa.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "betmove.vip" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.sbobet-888.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.juad88.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.jetsadabet.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "bk8thai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "w88casino.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "guccigame168.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ambbet-th.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.38thai.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pd99bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.fun555.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "uufa23.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "jokerteam123.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "faro8.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "lsm99.mobi" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ruay949.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufabetcn.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "jackpotxo1.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa5000.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "betflik68.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "fun555.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "fun068.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "app.123faz.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "sath88.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "5g88win.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "lottoheng168.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "sbobet-888.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.Bclub24.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufa88s.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "houyde.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "sa-game789.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "4579lotto.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.55slot.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
 zone "ufabet888888.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
 
-//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-2564 //// 23 Feb 2021
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "77up.me" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "royal5555.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "uufa38.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "aff.123mixx.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufabet888888.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa-rs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "chillbet.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "tclwin.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.m888club.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.bk8thai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufabet456.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "imi8bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "lsm99.guru" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "bmclubvip.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufaba99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufa5000.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.5g999.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "m888club.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "5g999.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "slotx89.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.mt88star.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ruay.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "55slot.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "wm1001.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "love918kiss.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufabetcn.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ninjaslot.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.pussy888thai.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufa700.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "jokerteam.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ts911official.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.sexybaccarat168.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "panama888.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "koddruay.guru" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ssgame66.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufa-rs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.sabai99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.superfish44.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.betmove.vip" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.pgslot999.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.w88casino.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "aff.ufaclub24.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.theonebet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "aff.letitgoal.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.mmm8bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "aff.789pro.app" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "allwingame.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufastar356.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "hiall.site" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "bbbs.bacc7688.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pgslot-online.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.bmclubvip.bet" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "gclub-x.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "sa-gaming89.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufabet168.info" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "z8.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.z8.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufaslot.cc" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "99member.biz" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ssgame66.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "scr99th.org" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "vip168sa.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "winner55.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufabet168.info" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "wallet.sumoslot.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pgslot.auto" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "38thai.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "lucky44.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.uufa38.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pgslot54.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ambbetvip.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "epicwin-x.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.hiall.site" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "uufa67.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufa24hrs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.lottothaibet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "member.mafia999.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "juad88.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.imi8bet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa24hrs.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.lottovip.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa88s.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "mt88star.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "fin88.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ts911official.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "gpbvegas1.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "jokerauto.bz" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "superfish44.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pussy8888.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "major168.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ambbet-th.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.scr99th.org" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "theonebet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufaba99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa-team.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "poipet8989.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.jackpotxo1.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.lucky44.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "bacc999.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "rogbet.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "aff.123new.vip" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufa24h.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ruay1949.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "Bclub24.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufa24h.co" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.tclwin.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ruay949.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.fun88wow.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.chillbet.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "slotxocasino.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "overbet99.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ufabet888.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.winner55.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "wallet7vip.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "pussy888.fun" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "www.ninjaslot.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "member.ufabet982.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "ufabet888.net" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "member.ufa656.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
+zone "jokerslotxo.com" IN {
+        type master;
+        file "data/db.block.mdes.go.th";
+        allow-update { none; };
+};
+
+//// Krailerk M. //// Request by Punsavut J. //// According to the Court's order, Case No. 63-256 //// 02 Mar 2021
 zone "www.fun068.com" IN {
         type master;
         file "data/db.block.mdes.go.th";
         allow-update { none; };
 };
+

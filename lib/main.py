@@ -33,6 +33,25 @@ def main():
     ## Close whitelist file for read all url from text
     fileWL.close()
 
+    ## Open file for read requestby from text
+    fileREQ = open("./input/requestby.txt", "r")
+    ## Readline from file requestby to parameter
+    reqALL = fileREQ.readlines()
+    #print(beforeCUT)
+    ## Close file for read all url from text
+    fileREQ.close()
+
+    ## Prepare data requestby
+    outREQ = list()
+    ## Loop for get request from file
+    for tmpREQ in reqALL:
+        ## Read for comment
+        if tmpREQ[:1] == "#":
+            pass
+        ## Put parameter from file to memory and cut "\n"
+        else:
+            outREQ.append(tmpREQ[:-1])
+
     ## Prepare data whitelist
     outWL = str()
     for tmpWL in WL_out:
@@ -88,11 +107,11 @@ def main():
     ## Can't block list
     cant_block = unique_whitelist.intersection(unique_words)
     ## Name of blocker
-    nameBlock = "Krailerk M."
+    nameBlock = outREQ[0]
     ## Name of requester
-    nameRequest = "Punsavut J."
+    nameRequest = outREQ[1]
     ## Number of case from Court's order
-    noCase = "Case No. 63-2564"
+    noCase = outREQ[2]
     ## Generate comment of line
     tmpstr1 = "//// " + nameBlock + " //// Request by " + nameRequest + " //// According to the Court's order, " + noCase + " //// " + str(today.strftime("%d %b %Y")) + "\n"
     ## Str parameter for store data record zone
